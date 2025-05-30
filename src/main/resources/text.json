@@ -1,0 +1,1 @@
+{"element":{"name":"Person","complexType":{"sequence":{"element":[{"name":"name","type":"xs:string"},{"name":"age","type":"xs:int"},{"name":"address","complexType":{"sequence":{"element":[{"name":"street","type":"xs:string"},{"name":"city","type":"xs:string"},{"name":"zip","type":"xs:string"}]}}}]}}}}
